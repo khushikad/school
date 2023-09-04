@@ -1,0 +1,36 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travelmain{
+border:1px solid blue;
+padding-left: 0px;
+padding-right: 0px;
+float: none;
+
+}
+.travelmain img{
+width:100% ;
+
+}
+.travelmain h3{
+text-align:center ;
+
+}
+.travelmain p{
+    padding:10px;
+}
+.movie_head{
+font-size: 20px;
+padding-left:10px ;
+border-radius:10px ;
+margin-bottom:20px;
+display: inline-block;
+width: 100%;
+}
+.movie_content p{
+    margin-top: 10px;
+}
+.lg_li{
+    margin-top:15px ;
+}
